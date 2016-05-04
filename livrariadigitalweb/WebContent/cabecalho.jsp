@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Cabeçalho alterado novamente por outro branch</title>
+<title>Verificando como fica as alterações em um branch criado localmente pelo eclipse</title>
 </head>
 <body>
 <img alt="" src="img/logosenac.jpg"/><h1>Livraria Senac</h1>
