@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>André 04072015-03 no eclipse</title> 
+<title>Como resolver o conflito no merge</title> 
 </head>
 <body>
 <img alt="" src="img/logosenac.jpg"/><h1>Livraria Senac</h1>
