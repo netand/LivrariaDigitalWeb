@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>André Cavalcanti de Oliveira</title>
+<title>André Cavalcanti de Oliveira Teste</title>
 </head>
 <body>
 <img alt="" src="img/logosenac.jpg"/><h1>Livraria Senac</h1>
